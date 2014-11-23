@@ -17,7 +17,7 @@ mv zshrc in  ~/.zshrc
 Thanks :
 --------
 
-Thanks to project : 
+Thanks to project : powerline-shell
 
 
 
