@@ -11,8 +11,13 @@ install :
 ---------
 
 mv powerline-shell.py in ~
+
 mv zshrc in  ~/.zshrc
 
+Thanks :
+--------
+
+Thanks to project : 
 
 
 
